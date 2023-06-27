@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AaryaDubhashi](https://github.com/AaryaDubhashi)
 
-- 📫 How to reach me **aarya.dubhashi@gmail.com**
+- 📫 How to reach me **aarya.dev02@gmail.com**
 
 - ⚡ Fun fact **I've lived in many places worldwide including India, United States (Houston, DC) and Dubai! I've also traveled to Singapore, Japan and most of the national parks in the United States!**
 
