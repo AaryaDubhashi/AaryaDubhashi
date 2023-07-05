@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on this blogging website! I plan on developing the front end using React and developing the backend further by potentially moving to Node.js! [Aarya's Bloggers spot](https://github.com/AaryaDubhashi/Aarya-s-Bloggers-Spot)
 
-- 🌱 I’m currently learning **JavaScript, React, Node.Js, Ruby**
+- 🌱 I’m currently learning **JavaScript, React, Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AaryaDubhashi](https://github.com/AaryaDubhashi)
 
 - 📫 How to reach me **aarya.dev02@gmail.com**
 
-- ⚡ Fun fact **I've lived in many places worldwide including India, United States (Houston, DC) and Dubai! I've also traveled to Singapore, Japan and most of the national parks in the United States!**
+- ⚡ Fun fact **I've lived in many places worldwide including India, United States (Houston, MD) and Dubai! I've also traveled to Singapore, Japan and most of the national parks in the United States!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
