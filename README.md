@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarya Dubhashi</h1>
 <h3 align="center"> A passionate student with a love for programming, who is committed to exploring new technologies and programming languages to develop innovative solutions for complex problems! I'm currently looking to apply my experience in an internship or co-op programs!</h3>
 
-- 🔭 I’m currently working on this blogging website! I plan on developing the front end using React and developing the backend further by potentially moving to Node.js! [Aarya's Bloggers spot](https://github.com/AaryaDubhashi/Aarya-s-Bloggers-Spot)
-
 - 🌱 I’m currently learning **JavaScript, React, Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AaryaDubhashi](https://github.com/AaryaDubhashi)
