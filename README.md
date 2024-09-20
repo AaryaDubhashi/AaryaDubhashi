@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarya Dubhashi</h1>
-<h3 align="center"> A passionate student with a love for programming, who is committed to exploring new technologies and programming languages to develop innovative solutions for complex problems! I'm currently looking to apply my experience in an internship or co-op programs!</h3>
+<h3 align="center"> A passionate student with a love for programming, who is committed to exploring new technologies and programming languages to develop innovative solutions for complex problems! I'm currently working at Marriott International as an Associate Software Engineer!</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Node.Js**
 
